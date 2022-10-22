@@ -21,9 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a Master's student in Computer Science at Hanyang University, where I am advised by [Jongwoo Lim](http://cvlab.hanyang.ac.kr/~jwlim/) in the [Computer Vision Lab](http://cvlab.hanyang.ac.kr/index.html). I am supported by an [AI Fellowship from Hanyang University](https://ai-bk21.hanyang.ac.kr/) and a [NRF BK21 FOUR](https://bk21four.nrf.re.kr/index.do). 
 
-My research focuses on 3D computer vision and machine learning architectures. In particular, I study how machines understand images more effectively by modelling 3D scenes. One recurring theme in my work is deep learning algorithms: including meta- and unsupervised learning. Previously, I interned at [Multipleye Co.](https://multipleye.co/), focusing on formulating an optical flow estimation framework. I received a B.S in Electrical and Computer Engineering at University of Seoul in 2021. 
+My research focuses on 3D computer vision and machine learning architectures. In particular, I study how machines understand images more effectively by modelling 3D scenes. One recurring theme in my work is deep learning algorithms: including meta- and unsupervised learning. Previously, I interned at [Multipleye Co.](https://multipleye.co/), focusing on formulating an optical flow estimation framework. 
 
-NOTE : This website is still under construction. For my publications, experience, awards, and other activities, please refer to my CV.
+I received a B.S in Electrical and Computer Engineering at University of Seoul in 2021. 
+
+**NOTE : This website is still under construction. For my publications, experience, awards, and other activities, please refer to my CV.**
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
