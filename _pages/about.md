@@ -9,7 +9,7 @@ profile:
   image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p align="center" style="color: #808080>CS Master's Student</p>
+    <p align="center">CS Master's Student</p>
     <p align="center">@ Hanyang University</p>
     <p align="center">Republic of Korea</p>
 
