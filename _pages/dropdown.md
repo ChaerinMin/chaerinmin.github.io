@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: blog
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Medium 
+      permalink: https://min-chaerin.medium.com/
     - title: divider
-    - title: projects
+    - title: SlideShare 
       permalink: /projects/
 ---
