@@ -25,7 +25,7 @@ My research focuses on 3D computer vision and machine learning architectures. In
 
 I received a B.S in Electrical and Computer Engineering at University of Seoul in 2021. 
 
-**NOTE : This website is still under construction. For my publications, experience, awards, and other activities, please refer to my CV.**
+**NOTE : For my publications, experience, awards, and other activities, please refer to my CV.**
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
