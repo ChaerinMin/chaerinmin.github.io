@@ -13,11 +13,14 @@ profile:
     <p align="center">@ Hanyang University</p>
     <p align="center">Republic of Korea</p>
 
-news: true  # includes a list of news items
-education: true
+news: false  # includes a list of news items
+education: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+I'm a Master's student in Computer Science at Hanyang University, where I am advised by [Jongwoo Lim](http://cvlab.hanyang.ac.kr/~jwlim/) in the [Computer Vision Lab](http://cvlab.hanyang.ac.kr/index.html). I am supported by an [AI Fellowship from Hanyang University](https://ai-bk21.hanyang.ac.kr/) and a [NRF BK21 FOUR](https://bk21four.nrf.re.kr/index.do). My research focuses on . I previously received a B.S in Electrical and Computer Engineering at University of Seoul in 2021. 
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
