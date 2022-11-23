@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Master's student in Computer Science at Hanyang University, where I am advised by [Jongwoo Lim](http://cvlab.hanyang.ac.kr/~jwlim/) in the [Computer Vision Lab](http://cvlab.hanyang.ac.kr/index.html). I am supported by an [AI Fellowship from Hanyang University](https://ai-bk21.hanyang.ac.kr/) and a [NRF BK21 FOUR](https://bk21four.nrf.re.kr/index.do). 
+I'm a Master's student in Computer Science at Hanyang University, where I am advised by [Jongwoo Lim](http://cvlab.hanyang.ac.kr/~jwlim/) in the [Computer Vision Lab](http://cvlab.hanyang.ac.kr/index.html). I am supported by an [AI Fellowship from Hanyang University](https://ai-bk21.hanyang.ac.kr/) and a [NRF BrainKorea21 FOUR](https://bk21four.nrf.re.kr/index.do). 
 
 My research focuses on 3D computer vision and machine learning architectures. In particular, I study how machines understand images more effectively by modelling 3D scenes. One recurring theme in my work is deep learning algorithms: including meta- and unsupervised learning. Previously, I interned at [Multipleye Co.](https://multipleye.co/), focusing on formulating an optical flow estimation framework. 
 
