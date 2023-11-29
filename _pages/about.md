@@ -36,7 +36,7 @@ Here is my [CV](pdf/CV.pdf). I'm looking for a research internship for Summer 20
 
 # 📝 Publications 
 
-[Drawing Hands with Generative Models]()
+Drawing Hands with Generative Models
 
 Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinath Sridhar (**Under Review**)
 
@@ -49,7 +49,7 @@ Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinat
 **Chaerin Min**$$^*$$, Sehyun Cha$$^*$$, Changhee Won, Jongwoo Lim ($$^*$$ denotes equal contribution, **Under Review**)
 
 [**Project**](https://tsdf-sampling.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**]()
+[**Code**]()(Coming in Feb)
 
 This paper introduces a novel approach that substantially reduces the number of samplings by incorporating the Truncated Signed Distance Field of the scene.
 </div>
@@ -63,7 +63,7 @@ This paper introduces a novel approach that substantially reduces the number of 
 
 **Chaerin Min**, Tae Hyun Kim, Jongwoo Lim
 
-Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [**Video**](https://youtu.be/07pSNV6rBj4) [**Code**]()
+Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [**Video**](https://youtu.be/07pSNV6rBj4) [**Code**]()(Coming in Dec)
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
