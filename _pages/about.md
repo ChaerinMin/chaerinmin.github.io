@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html). 
-My research interest lies in Computer Vision in 3D. 
+I'm a first year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
+My research interest lies in Computer Vision in 3D.
 I work on generative models to explore fun and impactful frontier in understanding and reconstructing 3D humans and objects. 
-Here is my [Curriculum Vitae](pdf/CV.pdf). 
-Before coming to Brown, I received by Master's degree in Computer Science at Hanyang University, advised by Prof. Jongwoo Lim. 
-I completed my Bachelor's degree at University of Seoul. 
+Here is my [Curriculum Vitae](pdf/CV.pdf).
+Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
+I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/en/main.do).
 I'm looking for an intern/visiting researcher posisition for Summer 2024. Feel free to reach out to me for future exciting collaboration!
 
 # 🔥 News 
