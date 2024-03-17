@@ -42,7 +42,7 @@ Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinat
 <div class='paper-box-text' markdown="1">
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
-[TSDF-Sampling: Efficient Sampling for Neural Surface Field using Truncated Signed Distance Field](https://arxiv.org/abs/2311.17878)
+[Fast Spatial Reasoning of Implicit 3D maps through Explicit Near-Far Sampling Range Prediction](https://arxiv.org/abs/2311.17878)
 
 **Chaerin Min**$$^*$$, Sehyun Cha$$^*$$, Changhee Won, Jongwoo Lim ($$^*$$ denotes equal contribution, **Under Review**)
 
