@@ -38,11 +38,11 @@ Drawing Hands with Generative Models
 
 Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinath Sridhar (**Under Review**)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2023</div><img src='images/TSDFSampling6.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/TSDFSampling6.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
-[Fast Spatial Reasoning of Implicit 3D maps through Explicit Near-Far Sampling Range Prediction](https://arxiv.org/abs/2311.17878)
+[Fast Spatial Reasoning of Implicit 3D maps through Explicit Near-Far Sampling Range Prediction]()
 
 **Chaerin Min**$$^*$$, Sehyun Cha$$^*$$, Changhee Won, Jongwoo Lim ($$^*$$ denotes equal contribution, **Under Review**)
 
