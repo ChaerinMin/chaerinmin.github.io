@@ -26,7 +26,7 @@ I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/
 I'm looking for an intern/visiting researcher posisition for Summer 2024. Feel free to reach out to me for future exciting collaboration!
 
 # 🔥 News 
-- *2023.06*: I successfully denfended my Master's thesis&nbsp;<a href="pdf/thesis.pdf"><img src="images/icon_pdf5.png"></a> and joined [Interactive 3D Vision & Learning Lab](https://ivl.cs.brown.edu/).
+- *2023.06*: I successfully defended my Master's thesis&nbsp;<a href="pdf/thesis.pdf"><img src="images/icon_pdf5.png"></a> and joined [Interactive 3D Vision & Learning Lab](https://ivl.cs.brown.edu/).
 - *2023.01*: I will present our work, *Meta-Learning for Adaptation of Deep Optical Flow Networks*, at WACV 2023 in Hawaii&nbsp;🇺🇸.
 - *2022.12*: I was granted a 9M KRW scholarship from [LG Electronics](https://www.lg.com/global/mobility)!
 - *2022.03*: I recieved a patent&nbsp;<a href="pdf/patent.pdf"><img src="images/icon_pdf5.png"></a> on a learning method for event cameras. 
@@ -82,7 +82,7 @@ Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision
 - *2016.03* Merit-based [Seongnam Scholarship](https://snjh.or.kr/EH2017/) for high school students, 1 year tuition.
 
 # 📖 Services
-- Served as a reviewer for CVPR 2024.
+- Served as a reviewer for CVPR and ECCV 2024.
 
 # 📖 Educations
 - *2023.09 - current*, Ph.D. in Computer Science, [Brown University](https://www.brown.edu/) (4.0/4.0), advised by prof. [Srinath Sridhar](https://rvlab.snu.ac.kr/people/jwlim)
