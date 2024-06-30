@@ -83,7 +83,7 @@ Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinat
 
 <span style="color:grey">IROS 2024</span>
 
-[**Paper**](pdf/tsdf.pdf) [**Project**](https://tsdf-sampling.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Code**]() (writing README now)
+[**Paper**](pdf/tsdf.pdf) [**Project**](https://chaerinmin.github.io/TSDF-sampling/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Code**]() (writing README now)
 
 </div>
 </div>
