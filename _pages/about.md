@@ -28,7 +28,7 @@ I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/
 Feel free to reach out to me for future exciting collaboration!
 
 # 🎉 News 
-- *2024.06*: One paper accepted to IROS 2024! See you at Dubai&nbsp;🐪.
+- *2024.06*: One paper accepted to IROS 2024! See you at Abu Dhabi&nbsp;🐪.
 - *2024.04*: I presented GenHeld at NASA event [**poster**](pdf/nasa.pdf) and NYC Vision Day [**poster**](pdf/nyc.pdf).
 <details>
   <summary> &nbsp; Click to Expand</summary>
