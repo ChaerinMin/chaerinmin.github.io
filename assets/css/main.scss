@@ -42,7 +42,7 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
+    justify-content: lerf;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
@@ -87,6 +87,52 @@
 
 }
 
+.logo-box {
+    display: flex;
+    justify-content: lerf;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .logo-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            object-fit: cover;
+        }
+    }
+    
+    .logo-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .logo-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .logo-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
@@ -106,4 +152,9 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+summary {
+    margin-left: 1em;
+    font-weight: bold;
 }
