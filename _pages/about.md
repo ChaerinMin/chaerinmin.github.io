@@ -19,9 +19,9 @@ redirect_from:
 
 # About 
 
-I am a first year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
+I am a second year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
 My research interest lies in Computer Vision in 3D.
-I'm currently exploring the interaction between scenes, objects and humans.
+I'm currently exploring 3D/4D reconstruction, Gaussian Splatting, and generation.
 Here is my [Curriculum Vitae](pdf/CV.pdf).
 Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
 I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/en/main.do).
@@ -46,29 +46,31 @@ Feel free to reach out to me for future exciting collaboration!
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/genheld.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/handifformer.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## FoundHand: Generative Hand Foundation Model
+
+Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinath Sridhar
+
+<span style="color:grey">In Submission</span>
+
+</div>
+</div>
+
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/genheld.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/genheld.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [GenHeld: Generating and Editing Handheld Objects](https://arxiv.org/abs/2406.05059)
 
 **Chaerin Min**, Srinath Sridhar
 
-<span style="color:grey">In Submission</span>
+<span style="color:grey">ArXiv 2024</span>
 
 [**Paper**](https://arxiv.org/abs/2406.05059) [**Project**](https://ivl.cs.brown.edu/research/genheld.html) [**Code**](https://github.com/ChaerinMin/GenHeld)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/handifformer.png' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## HanDifformer: Conditional Hand Image Generation with Spatially-Aligned Diffusion
-
-Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinath Sridhar
-
-<span style="color:grey">In Submission</span>
 
 </div>
 </div>
@@ -122,7 +124,7 @@ Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinat
 </details>
 
 # 📖 Services
-- Served as a reviewer for CVPR'24 and ECCV'24.
+- Served as a reviewer for CVPR'24, ECCV'24, and T-PAMI'24
 
 # 📖 Educations
 <!-- <details>
@@ -138,5 +140,5 @@ Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinat
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: June 30, 2024 by 민채린</span>
+<span style="color:grey">Last updated: Oct 21, 2024</span>
 <div><br><br></div>
