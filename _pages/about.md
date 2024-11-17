@@ -27,7 +27,7 @@ Before coming to Brown, I received by Master's degree in Computer Science at [Ha
 I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/en/main.do).
 Feel free to reach out to me for future exciting collaboration!
 
-# 🎉 News 
+# 📢 News 
 - *2024.06*: One paper accepted to IROS 2024! See you at Abu Dhabi&nbsp;🐪.
 - *2024.04*: I presented GenHeld at NASA event [**poster**](pdf/nasa.pdf) and NYC Vision Day [**poster**](pdf/nyc.pdf).
 <details>
@@ -48,29 +48,30 @@ Feel free to reach out to me for future exciting collaboration!
 <div class='paper-box-text' markdown="1"> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/handifformer.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/foundhand.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## FoundHand: Generative Hand Foundation Model
+## [FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation]()
 
-Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinath Sridhar
+Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinath Sridhar
 
-<span style="color:grey">In Submission</span>
+<!-- <span style="color:grey">In Submission</span> -->
 
 </div>
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/genheld.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/genheld.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [GenHeld: Generating and Editing Handheld Objects](https://arxiv.org/abs/2406.05059)
 
 **Chaerin Min**, Srinath Sridhar
 
-<span style="color:grey">ArXiv 2024</span>
+<!-- <span style="color:grey">In Submission</span> -->
 
-[**Paper**](https://arxiv.org/abs/2406.05059) [**Project**](https://ivl.cs.brown.edu/research/genheld.html) [**Code**](https://github.com/ChaerinMin/GenHeld)
+<!-- [**Paper**](https://arxiv.org/abs/2406.05059)  -->
+<!-- [**Project**](https://ivl.cs.brown.edu/research/genheld.html) [**Code**](https://github.com/ChaerinMin/GenHeld) -->
 
 </div>
 </div>
@@ -83,7 +84,7 @@ Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinat
 
 **Chaerin Min**$$^*$$, Sehyun Cha$$^*$$, Changhee Won, Jongwoo Lim ($$^*$$ equal contribution)
 
-<span style="color:grey">IROS 2024</span>
+<span style="color:black">IROS 2024</span> oral pitch!
 
 [**Paper**](pdf/tsdf.pdf) [**Project**](https://chaerinmin.github.io/TSDF-sampling/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Code**](https://github.com/ChaerinMin/TSDF-sampling)
 
@@ -97,7 +98,7 @@ Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinat
 
 **Chaerin Min**, Tae Hyun Kim, Jongwoo Lim
 
-<span style="color:grey">WACV 2023</span>
+<span style="color:black">WACV 2023</span>
 
 [**Paper**](https://openaccess.thecvf.com/content/WACV2023/papers/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.pdf) [**Video**](https://youtu.be/07pSNV6rBj4) [**Code**](https://github.com/ChaerinMin/MLOF)
 
@@ -130,8 +131,8 @@ Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinat
 <!-- <details>
   <summary class="post-conent"> &nbsp; Click to Expand </summary>
   <article markdown="1" class="post-content"> -->
-- *2023.09 - current*, Ph.D. in Computer Science, [Brown University](https://www.brown.edu/) (4.0/4.0), advised by prof. [Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html)
-- *2021.09 - 2023.08*, M.S. in Computer Science, [Hanyang University](https://www.hanyang.ac.kr/web/eng) (4.0/4.0), advised by prof. [Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim)
+- *2023.09 - current*, Ph.D. in Computer Science, [Brown University](https://www.brown.edu/), advised by prof. [Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html)
+- *2021.09 - 2023.08*, M.S. in Computer Science, [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by prof. [Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim)
 - *2017.03 - 2021.08*, B.S. in Electrical and Computer Engineering, [University of Seoul](https://www.uos.ac.kr/en/main.do) (4.3/4.5, 2nd place).
   <!-- </article>
 <!-- </details> --> 
@@ -140,5 +141,5 @@ Kefan Chen, **Chaerin Min**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinat
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: Oct 21, 2024</span>
+<span style="color:grey">Last updated: Nov 17, 2024</span>
 <div><br><br></div>
