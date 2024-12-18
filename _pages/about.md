@@ -22,18 +22,20 @@ redirect_from:
 I am a second year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
 My research interest lies in Computer Vision in 3D.
 I'm currently exploring 3D/4D reconstruction, Gaussian Splatting, and generation.
-Here is my [Curriculum Vitae](pdf/CV.pdf).
+<!-- Here is my [Curriculum Vitae](pdf/CV.pdf). -->
 Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
 I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/en/main.do).
 Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
-- *2024.06*: One paper accepted to IROS 2024! See you at Abu Dhabi&nbsp;🐪.
-- *2024.04*: I presented GenHeld at NASA event [**poster**](pdf/nasa.pdf) and NYC Vision Day [**poster**](pdf/nyc.pdf).
+- *2024.11*: Released FoundHand to the public.
+
 <details>
   <summary> &nbsp; Click to Expand</summary>
 
   <article markdown="1" class="post-content">
+  - *2024.06*: One paper accepted to IROS 2024! See you at Abu Dhabi&nbsp;🐪.
+  - *2024.04*: I presented GenHeld at NASA event [**poster**](pdf/nasa.pdf) and NYC Vision Day [**poster**](pdf/nyc.pdf).
   - *2023.06*: Successfully defended my Master's thesis [**PDF**](pdf/thesis.pdf) and joined [Interactive 3D Vision & Learning Lab](https://ivl.cs.brown.edu/).
   - *2023.01*: One paper accepted to WACV 2023! See you at Hawaii&nbsp;🏝️.
   - *2022.12*: Granted a 9M KRW scholarship from [LG Electronics](https://www.lg.com/global/mobility)!
@@ -51,30 +53,31 @@ Feel free to reach out to me for future exciting collaboration!
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/foundhand.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## [FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation]()
+## [FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation](https://arxiv.org/abs/2412.02690)
 
 Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinath Sridhar
 
 <!-- <span style="color:grey">In Submission</span> -->
+[**Paper**](https://arxiv.org/abs/2412.02690) [**Project**](https://ivl.cs.brown.edu/research/foundhand.html)
 
 </div>
 </div>
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/genheld.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [GenHeld: Generating and Editing Handheld Objects](https://arxiv.org/abs/2406.05059)
 
-**Chaerin Min**, Srinath Sridhar
+**Chaerin Min**, Srinath Sridhar -->
 
 <!-- <span style="color:grey">In Submission</span> -->
 
 <!-- [**Paper**](https://arxiv.org/abs/2406.05059)  -->
 <!-- [**Project**](https://ivl.cs.brown.edu/research/genheld.html) [**Code**](https://github.com/ChaerinMin/GenHeld) -->
 
-</div>
-</div>
+<!-- </div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/tsdf.gif' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,7 +87,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 
 **Chaerin Min**$$^*$$, Sehyun Cha$$^*$$, Changhee Won, Jongwoo Lim ($$^*$$ equal contribution)
 
-<span style="color:black">IROS 2024</span> oral pitch!
+<span style="color:black">IROS 2024</span> <span style="color:brown">oral pitch</span>
 
 [**Paper**](pdf/tsdf.pdf) [**Project**](https://chaerinmin.github.io/TSDF-sampling/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Code**](https://github.com/ChaerinMin/TSDF-sampling)
 
@@ -94,7 +97,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/mlof.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## [Meta-Learning for Adaptation of Deep Optical Flow Networks](https://openaccess.thecvf.com/content/WACV2023/papers/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.pdf)
+## [Meta-Learning for Adaptation of Deep Optical Flow Networks](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html)
 
 **Chaerin Min**, Tae Hyun Kim, Jongwoo Lim
 
@@ -107,7 +110,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </div>
 </div>
 # 💻 Internships
-- *2023.07*, Teaching Assistant, at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) for AI Expert course, supervised by Prof. Jongwoo Lim.
+- *2023.07*, Teaching Assistant, at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) for AI Expert course
 - *2021.08, 2022.09 - 2023.06*, Research Intern, [MultiplEYE](https://multipleye.co/en/)
 
 # 🎖 Honors and Awards
@@ -116,24 +119,24 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
   <summary class="post-content"> &nbsp; Click to Expand </summary>
 
   <article markdown="1" class="post-content">
-  - *2022.12* LG Electronics Scholarship, [LGE Vehicle Solutions](https://www.lg.com/global/mobility), 9M KRW.
-  - *2021.09* BrainKorea21, [National Research Foundation of Korea](https://www.nrf.re.kr/eng/index), 26M KRW.
-  - *2020.01* [ISEP](https://www.isepstudyabroad.org/programs/program-types-and-deadlines/isep-exchange) Exchange, United States, 21k USD.
-  - *2019.09* Scholarship for Excellent Achievement, University of Seoul, Half tuition.
-  - *2016.03* Merit-based [Seongnam Scholarship](https://snjh.or.kr/EH2017/) for high school students, 1 year tuition.
+  - *2022.12* LG Electronics Scholarship, [LGE Vehicle Solutions](https://www.lg.com/global/mobility)
+  - *2021.09* BrainKorea21, [National Research Foundation of Korea](https://www.nrf.re.kr/eng/index)
+  - *2020.01* [ISEP](https://www.isepstudyabroad.org/programs/program-types-and-deadlines/isep-exchange) Exchange, United States
+  - *2019.09* Scholarship for Excellent Achievement, University of Seoul
+  - *2016.03* Merit-based [Seongnam Scholarship](https://snjh.or.kr/EH2017/) for high school students
   </article>
 </details>
 
 # 📖 Services
-- Served as a reviewer for CVPR'24, ECCV'24, and T-PAMI'24
+- Served as a reviewer for ECCV'24, T-PAMI'24, CVPR'24'25
 
 # 📖 Educations
 <!-- <details>
   <summary class="post-conent"> &nbsp; Click to Expand </summary>
   <article markdown="1" class="post-content"> -->
-- *2023.09 - current*, Ph.D. in Computer Science, [Brown University](https://www.brown.edu/), advised by prof. [Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html)
-- *2021.09 - 2023.08*, M.S. in Computer Science, [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by prof. [Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim)
-- *2017.03 - 2021.08*, B.S. in Electrical and Computer Engineering, [University of Seoul](https://www.uos.ac.kr/en/main.do) (4.3/4.5, 2nd place).
+- *2023.09 - current*, Ph.D. in Computer Science, [Brown University](https://www.brown.edu/)
+- *2021.09 - 2023.08*, M.S. in Computer Science, [Hanyang University](https://www.hanyang.ac.kr/web/eng)
+- *2017.03 - 2021.08*, B.S. in Electrical and Computer Engineering, [University of Seoul](https://www.uos.ac.kr/en/main.do) (4.3/4.5, 2nd place)
   <!-- </article>
 <!-- </details> --> 
 
@@ -141,5 +144,5 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: Nov 17, 2024</span>
+<span style="color:grey">Last updated: Dec 17, 2024</span>
 <div><br><br></div>
