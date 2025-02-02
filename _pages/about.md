@@ -110,7 +110,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </div>
 </div>
 # 💻 Internships
-- *2023.07*, Teaching Assistant, at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) for AI Expert course
+- *2023.07*, Teaching Assistant, at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) for one-day lab of AI Expert course
 - *2021.08, 2022.09 - 2023.06*, Research Intern, [MultiplEYE](https://multipleye.co/en/)
 
 # 🎖 Honors and Awards
@@ -119,7 +119,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
   <summary class="post-content"> &nbsp; Click to Expand </summary>
 
   <article markdown="1" class="post-content">
-  - *2022.12* LG Electronics Scholarship, [LGE Vehicle Solutions](https://www.lg.com/global/mobility)
+  <!-- - *2022.12* LG Electronics Scholarship, [LGE Vehicle Solutions](https://www.lg.com/global/mobility) -->
   - *2021.09* BrainKorea21, [National Research Foundation of Korea](https://www.nrf.re.kr/eng/index)
   - *2020.01* [ISEP](https://www.isepstudyabroad.org/programs/program-types-and-deadlines/isep-exchange) Exchange, United States
   - *2019.09* Scholarship for Excellent Achievement, University of Seoul
