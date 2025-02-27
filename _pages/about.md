@@ -22,24 +22,26 @@ redirect_from:
 I am a second year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
 My research interest lies in Computer Vision in 3D.
 I'm currently exploring 3D/4D reconstruction, Gaussian Splatting, and generation.
+Here is my [Curriculum Vitae](pdf/CV_ChaerinMin_250226.pdf).
 <!-- Here is my [Curriculum Vitae](pdf/CV.pdf). -->
 Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
 I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/en/main.do).
 Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
-- *2024.11*: Released FoundHand to the public.
+- *2025.02*: 1 paper accepted to CVPR 2025! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
 
 <details>
   <summary> &nbsp; Click to Expand</summary>
 
   <article markdown="1" class="post-content">
-  - *2024.06*: One paper accepted to IROS 2024! See you at Abu Dhabi&nbsp;🐪.
-  - *2024.04*: I presented GenHeld at NASA event [**poster**](pdf/nasa.pdf) and NYC Vision Day [**poster**](pdf/nyc.pdf).
-  - *2023.06*: Successfully defended my Master's thesis [**PDF**](pdf/thesis.pdf) and joined [Interactive 3D Vision & Learning Lab](https://ivl.cs.brown.edu/).
-  - *2023.01*: One paper accepted to WACV 2023! See you at Hawaii&nbsp;🏝️.
-  - *2022.12*: Granted a 9M KRW scholarship from [LG Electronics](https://www.lg.com/global/mobility)!
-  - *2022.03*: Recieved a patent [**PDF**](pdf/patent.pdf) about event cameras. 
+  - *2024.06*: 1 paper accepted to IROS 2024! See you at Abu Dhabi&nbsp;🐪
+  <!-- - *2024.04*: Presented GenHeld at [**NASA event**](pdf/nasa.pdf) and [**NYC Vision Day**](pdf/nyc.pdf). -->
+  - *2023.06*: Successfully defended my [**Master's thesis**](pdf/thesis.pdf)!
+  <!-- and joined [Interactive 3D Vision & Learning Lab](https://ivl.cs.brown.edu/). -->
+  - *2023.01*: 1 paper accepted to WACV 2023! See you at Hawaii&nbsp;🏝️
+  - *2022.12*: Granted a 9M KRW scholarship from LG Electronics!
+  <!-- - *2022.03*: Recieved a [**patent**](pdf/patent.pdf) about event cameras.  -->
   <!-- &nbsp;🎉🎉 -->
   </article>
 </details>
@@ -50,12 +52,14 @@ Feel free to reach out to me for future exciting collaboration!
 <div class='paper-box-text' markdown="1"> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/foundhand.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/foundhand.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation](https://arxiv.org/abs/2412.02690)
 
 Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinath Sridhar
+
+<span style="color:black">CVPR 2025</span>
 
 <!-- <span style="color:grey">In Submission</span> -->
 [**Paper**](https://arxiv.org/abs/2412.02690) [**Project**](https://ivl.cs.brown.edu/research/foundhand.html) [**Demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)
@@ -83,13 +87,13 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 <div class='paper-box-text' markdown="1">
 
 
-## [Fast Spatial Reasoning of Implicit 3D maps through Explicit Near-Far Sampling Range Prediction](pdf/tsdf.pdf)
+## [Fast Spatial Reasoning of Implicit 3D maps through Explicit Near-Far Sampling Range Prediction](https://ieeexplore.ieee.org/abstract/document/10802100)
 
-**Chaerin Min**$$^*$$, Sehyun Cha$$^*$$, Changhee Won, Jongwoo Lim ($$^*$$ equal contribution)
+**Chaerin Min**$$^*$$, Sehyun Cha$$^*$$, Changhee Won, Jongwoo Lim
 
-<span style="color:black">IROS 2024</span> <span style="color:brown">oral pitch</span>
+<span style="color:black">IROS 2024</span> <!--<span style="color:brown">oral pitch</span>-->
 
-[**Paper**](pdf/tsdf.pdf) [**Project**](https://chaerinmin.github.io/TSDF-sampling/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Code**](https://github.com/ChaerinMin/TSDF-sampling)
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10802100) [**Project**](https://chaerinmin.github.io/TSDF-sampling/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Code**](https://github.com/ChaerinMin/TSDF-sampling)
 
 </div>
 </div>
@@ -103,15 +107,20 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 
 <span style="color:black">WACV 2023</span>
 
-[**Paper**](https://openaccess.thecvf.com/content/WACV2023/papers/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.pdf) [**Video**](https://youtu.be/07pSNV6rBj4) [**Code**](https://github.com/ChaerinMin/MLOF)
+[**Paper**](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [**Video**](https://youtu.be/07pSNV6rBj4) [**Code**](https://github.com/ChaerinMin/MLOF)
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
-# 💻 Internships
-- *2023.07*, Teaching Assistant, at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) for one-day lab of AI Expert course
-- *2021.08, 2022.09 - 2023.06*, Research Intern, [MultiplEYE](https://multipleye.co/en/)
+# 💻 Research Experiences
+- *2023.09 - current,* [Interactive 3D Vision & Learning Lab](https://ivl.cs.brown.edu/), Brown University
+  - Ph.D. Research Assistant, 3D computer vision and generation -> CVPR 2025 and current projects
+- *2022.09 - 2023.05,* [MultiplEYE Co.](https://multipleye.co/en/)
+  - Research Intern, Neural rendering in large real indoor scenes -> IROS 2024
+<!-- *2023.07*, Teaching Assistant, at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) for one-day lab of AI Expert course -->
+- *2021.09 - 2023.05,* [Computer vision Lab](https://rvlab.snu.ac.kr/), HYU
+  - Master’s Research Assistant, Cross-domain generalization in optical flow -> WACV 2023
 
 # 🎖 Honors and Awards
 
@@ -119,7 +128,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
   <summary class="post-content"> &nbsp; Click to Expand </summary>
 
   <article markdown="1" class="post-content">
-  <!-- - *2022.12* LG Electronics Scholarship, [LGE Vehicle Solutions](https://www.lg.com/global/mobility) -->
+  - *2022.12* LG Electronics Scholarship, [LGE Vehicle Solutions](https://www.lg.com/global/mobility)
   - *2021.09* BrainKorea21, [National Research Foundation of Korea](https://www.nrf.re.kr/eng/index)
   - *2020.01* [ISEP](https://www.isepstudyabroad.org/programs/program-types-and-deadlines/isep-exchange) Exchange, United States
   - *2019.09* Scholarship for Excellent Achievement, University of Seoul
@@ -128,15 +137,15 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </details>
 
 # 📖 Services
-- Served as a reviewer for ECCV'24, T-PAMI'24, CVPR'24'25
+- Reviewer for ECCV'24, T-PAMI'24, CVPR'24'25, SIGGRAPHP'25, ICCV'25
 
 # 📖 Educations
 <!-- <details>
   <summary class="post-conent"> &nbsp; Click to Expand </summary>
   <article markdown="1" class="post-content"> -->
-- *2023.09 - current*, Ph.D. in Computer Science, [Brown University](https://www.brown.edu/)
-- *2021.09 - 2023.08*, M.S. in Computer Science, [Hanyang University](https://www.hanyang.ac.kr/web/eng)
-- *2017.03 - 2021.08*, B.S. in Electrical and Computer Engineering, [University of Seoul](https://www.uos.ac.kr/en/main.do) (4.3/4.5, 2nd place)
+- *2023.09 - current*, Ph.D. in Computer Science, [Brown University](https://www.brown.edu/) (GPA: 4.0/4.0)
+- *2021.09 - 2023.08*, M.S. in Computer Science, [Hanyang University](https://www.hanyang.ac.kr/web/eng) (GPA: 4.0/4.0)
+- *2017.03 - 2021.08*, B.S. in Electrical and Computer Engineering, [University of Seoul](https://www.uos.ac.kr/en/main.do) (GPA: 4.3/4.5, 2nd place)
   <!-- </article>
 <!-- </details> --> 
 
@@ -144,5 +153,5 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: Dec 30, 2024</span>
+<span style="color:grey">Last updated: Feb 26, 2025</span>
 <div><br><br></div>
