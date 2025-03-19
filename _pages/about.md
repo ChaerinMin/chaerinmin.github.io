@@ -29,7 +29,7 @@ I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/
 Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
-- *2025.06*: I'm excited to join Google as a Student Researcher. See you at Mountain View!
+- *2025.06*: I'm excited to join [Google](https://about.google/) as a Student Researcher. See you at Mountain View!
 - *2025.03*: I successfully defended my candidacy.
 - *2025.02*: 1 paper accepted to CVPR 2025! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
 
