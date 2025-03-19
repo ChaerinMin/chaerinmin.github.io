@@ -117,7 +117,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </div>
 # 💻 Research Experiences
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 20px;">
-  <img src="images/google_logo.jpg" alt="logo" style="margin-right: 50px; margin-left: 20px; width: 120px;" />
+  <img src="images/google_logo.jpg" alt="logo" style="margin-right: 45px; margin-left: 25px; width: 130px;" />
   <div style="text-align: left; line-height: 1.2;">
     <p style="font-size: 1.0em; color: #000;">
       Google
@@ -129,7 +129,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 20px;">
-  <img src="images/brown_logo.png" alt="logo" style="margin-right: 50px; margin-left: 20px; width: 120px;" />
+  <img src="images/brown_logo.png" alt="logo" style="margin-right: 45px; margin-left: 20px; width: 135px;" />
   <div style="text-align: left; line-height: 1.2;">
     <p style="font-size: 1.0em; color: #000;">
       Brown University
@@ -141,7 +141,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 20px;">
-  <img src="images/multipleye_logo.png" alt="logo" style="margin-right: 50px; margin-left: 20px; width: 120px;" />
+  <img src="images/multipleye_logo.png" alt="logo" style="margin-right: 45px; margin-left: 20px; width: 135px;" />
   <div style="text-align: left; line-height: 1.2;">
     <p style="font-size: 1.0em; color: #000;">
       MultiplEYE Co.
@@ -153,7 +153,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px; margin-top: 20px;">
-  <img src="images/hyu_logo.png" alt="logo" style="margin-right: 80px; margin-left: 40px; width: 70px;" />
+  <img src="images/hyu_logo.png" alt="logo" style="margin-right: 75px; margin-left: 50px; width: 75px;" />
   <div style="text-align: left; line-height: 1.2;">
     <p style="font-size: 1.0em; color: #000;">
       Hanyang University
