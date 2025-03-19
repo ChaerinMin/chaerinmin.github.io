@@ -116,10 +116,10 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </div>
 </div>
 # 💻 Research Experiences
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 20px;">
   <img src="images/google_logo.jpg" alt="logo" style="margin-right: 50px; margin-left: 20px; width: 120px;" />
   <div style="text-align: left; line-height: 1.2;">
-    <p style="font-size: 1.1em;">
+    <p style="font-size: 1.1em; color: #000;">
       Google
     </p>
     <p style="font-size: 1.0em;">Student Researcher</p>
@@ -128,10 +128,10 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 20px;">
   <img src="images/brown_logo.png" alt="logo" style="margin-right: 50px; margin-left: 20px; width: 120px;" />
   <div style="text-align: left; line-height: 1.2;">
-    <p style="font-size: 1.1em;">
+    <p style="font-size: 1.1em; color: #000;">
       Brown University
     </p>
     <p>Ph.D. Research Assistant @ <a href="https://ivl.cs.brown.edu/" target="_blank">Interactive 3D Vision & Learning Lab</a></p>
@@ -140,10 +140,10 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 20px;">
   <img src="images/multipleye_logo.png" alt="logo" style="margin-right: 50px; margin-left: 20px; width: 120px;" />
   <div style="text-align: left; line-height: 1.2;">
-    <p style="font-size: 1.1em;">
+    <p style="font-size: 1.1em; color: #000;">
       MultiplEYE Co.
     </p>
     <p>Research Intern @ <a herf="https://multipleye.co/en/" target="_blank">MultiplEYE</a></p>
@@ -152,10 +152,10 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
+<div style="display: flex; align-items: center; margin-bottom: 40px; margin-top: 20px;">
   <img src="images/hyu_logo.png" alt="logo" style="margin-right: 80px; margin-left: 40px; width: 70px;" />
   <div style="text-align: left; line-height: 1.2;">
-    <p style="font-size: 1.1em;">
+    <p style="font-size: 1.1em; color: #000;">
       Hanyang University
     </p>
     <p>Master's Research Assistant @ <a href="https://rvlab.snu.ac.kr/" target="_blank"> Computer Vision Lab</a></p>
