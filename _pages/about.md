@@ -29,6 +29,8 @@ I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/
 Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
+- *2025.06*: I'm excited to join Google as a Student Researcher. See you at Mountain View!
+- *2025.03*: I successfully defended my candidacy.
 - *2025.02*: 1 paper accepted to CVPR 2025! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
 
 <details>
@@ -114,13 +116,61 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </div>
 </div>
 # 💻 Research Experiences
-- *2023.09 - current,* [Interactive 3D Vision & Learning Lab](https://ivl.cs.brown.edu/), Brown University
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/google_logo.jpg" alt="logo" style="margin-right: 50px; margin-left: 20px; width: 120px;" />
+  <div style="text-align: left; line-height: 1.2;">
+    <p style="font-size: 1.1em;">
+      Google
+    </p>
+    <p style="font-size: 1.0em;">Student Researcher</p>
+    <p style="font-size: 1.0em;">Mountain View, CA</p>
+    <p style="font-size: 1.0em;">06/2025 - 08/2025</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/brown_logo.png" alt="logo" style="margin-right: 50px; margin-left: 20px; width: 120px;" />
+  <div style="text-align: left; line-height: 1.2;">
+    <p style="font-size: 1.1em;">
+      Brown University
+    </p>
+    <p>Ph.D. Research Assistant @ <a href="https://ivl.cs.brown.edu/" target="_blank">Interactive 3D Vision & Learning Lab</a></p>
+    <p><em>3D computer vision and generation -> CVPR 2025 and current projects</em></p>
+    09/2023 - Current
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/multipleye_logo.png" alt="logo" style="margin-right: 50px; margin-left: 20px; width: 120px;" />
+  <div style="text-align: left; line-height: 1.2;">
+    <p style="font-size: 1.1em;">
+      MultiplEYE Co.
+    </p>
+    <p>Research Intern @ <a herf="https://multipleye.co/en/" target="_blank">MultiplEYE</a></p>
+    <p><em>Neural rendering in large real indoor scenes -> IROS 2024</em></p>
+    09/2022 - 05/2023
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="images/hyu_logo.png" alt="logo" style="margin-right: 80px; margin-left: 40px; width: 70px;" />
+  <div style="text-align: left; line-height: 1.2;">
+    <p style="font-size: 1.1em;">
+      Hanyang University
+    </p>
+    <p>Master's Research Assistant @ <a href="https://rvlab.snu.ac.kr/" target="_blank"> Computer Vision Lab</a></p>
+    <p><em>Cross-domain generalization in optical flow -> WACV 2023</em></p>
+    09/2021 - 08/2023
+  </div>
+</div>
+
+<!-- - *2023.09 - current,* [Interactive 3D Vision & Learning Lab](https://ivl.cs.brown.edu/), Brown University
   - Ph.D. Research Assistant, 3D computer vision and generation -> CVPR 2025 and current projects
 - *2022.09 - 2023.05,* [MultiplEYE Co.](https://multipleye.co/en/)
   - Research Intern, Neural rendering in large real indoor scenes -> IROS 2024
 <!-- *2023.07*, Teaching Assistant, at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) for one-day lab of AI Expert course -->
-- *2021.09 - 2023.05,* [Computer vision Lab](https://rvlab.snu.ac.kr/), HYU
-  - Master’s Research Assistant, Cross-domain generalization in optical flow -> WACV 2023
+<!-- - *2021.09 - 2023.05,* [Computer vision Lab](https://rvlab.snu.ac.kr/), HYU
+  - Master’s Research Assistant, Cross-domain generalization in optical flow -> WACV 2023 --> 
 
 # 🎖 Honors and Awards
 
@@ -137,7 +187,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </details>
 
 # 📖 Services
-- Reviewer for ECCV'24, T-PAMI'24, CVPR'24'25, SIGGRAPHP'25, ICCV'25
+- Reviewer for ECCV'24, T-PAMI'24, CVPR'24'25, SIGGRAPHP'25
 
 # 📖 Educations
 <!-- <details>
@@ -153,5 +203,5 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: Feb 26, 2025</span>
+<span style="color:grey">Last updated: Mar 18, 2025</span>
 <div><br><br></div>
