@@ -22,7 +22,7 @@ redirect_from:
 I am a second year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
 My research interest lies in Computer Vision in 3D.
 I'm currently exploring 3D/4D reconstruction, Gaussian Splatting, and generation.
-Here is my [Curriculum Vitae](pdf/CV_ChaerinMin_250226.pdf).
+Here is my [Curriculum Vitae](pdf/CV_ChaerinMin_250404.pdf).
 <!-- Here is my [Curriculum Vitae](pdf/CV.pdf). -->
 Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
 I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/en/main.do).
@@ -30,8 +30,8 @@ Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
 - *2025.06*: I'm excited to join [Google](https://about.google/) as a Student Researcher. See you at Mountain View!
+- *2025.04*: 1 paper accepted to CVPR 2025 as highlight! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
 - *2025.03*: I successfully defended my candidacy.
-- *2025.02*: 1 paper accepted to CVPR 2025! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
 
 <details>
   <summary> &nbsp; Click to Expand</summary>
@@ -54,14 +54,14 @@ Feel free to reach out to me for future exciting collaboration!
 <div class='paper-box-text' markdown="1"> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/foundhand.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 highlight</div><img src='images/foundhand.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation](https://arxiv.org/abs/2412.02690)
 
 Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinath Sridhar
 
-<span style="color:black">CVPR 2025</span>
+<span style="color:black">CVPR 2025 <i style="color:red">highlight</i></span>
 
 <!-- <span style="color:grey">In Submission</span> -->
 [**Paper**](https://arxiv.org/abs/2412.02690) [**Project**](https://ivl.cs.brown.edu/research/foundhand.html) [**Demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)
@@ -122,7 +122,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
     <p style="font-size: 1.0em; color: #000;">
       Google
     </p>
-    <p style="font-size: 1.0em;">Student Researcher</p>
+    <p style="font-size: 1.0em;">Student Researcher (mentor: <a href="https://www.linkedin.com/in/hongsheng-yu-05788059/">Hongsheng Yu</a>)</p>
     <p style="font-size: 1.0em;">Mountain View, CA</p>
     <p style="font-size: 1.0em;">06/2025 - 08/2025</p>
   </div>
@@ -146,7 +146,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
     <p style="font-size: 1.0em; color: #000;">
       MultiplEYE Co.
     </p>
-    <p>Research Intern @ <a herf="https://multipleye.co/en/" target="_blank">MultiplEYE</a></p>
+    <p>Research Intern @ <a href="https://multipleye.co/en/" target="_blank">MultiplEYE</a></p>
     <p><em>Neural rendering in large real indoor scenes -> IROS 2024</em></p>
     09/2022 - 05/2023
   </div>
@@ -203,5 +203,5 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: Mar 18, 2025</span>
+<span style="color:grey">Last updated: Apr 4, 2025</span>
 <div><br><br></div>
