@@ -54,7 +54,7 @@ Feel free to reach out to me for future exciting collaboration!
 <div class='paper-box-text' markdown="1"> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 highlight</div><img src='images/foundhand.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/foundhand.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation](https://arxiv.org/abs/2412.02690)
