@@ -61,7 +61,7 @@ Feel free to reach out to me for future exciting collaboration!
 
 Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinath Sridhar
 
-<span style="color:black">CVPR 2025 (<span style="color:red">highlight</span>)</span>
+<span style="color:black">CVPR 2025 (<span style="color:#CC0000">highlight</span>)</span>
 
 <!-- <span style="color:grey">In Submission</span> -->
 [**Paper**](https://arxiv.org/abs/2412.02690) [**Project**](https://ivl.cs.brown.edu/research/foundhand.html) [**Demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)
