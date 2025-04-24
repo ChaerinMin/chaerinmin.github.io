@@ -30,7 +30,7 @@ Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
 - *2025.06*: I'm excited to join [Google](https://about.google/) as a Student Researcher. See you at Mountain View!
-- *2025.04*: 1 paper accepted to CVPR 2025 as <span style="color:#CC0000">Highlight</span>! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
+- *2025.04*: 1 paper accepted to CVPR 2025 as Highlight! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
 - *2025.03*: I successfully defended my candidacy.
 
 <details>
@@ -61,7 +61,7 @@ Feel free to reach out to me for future exciting collaboration!
 
 Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Keskin, Srinath Sridhar
 
-<span style="color:black">CVPR 2025 <span style="color:#CC0000">Highlight</span></span> (Top 2.98% out of valid submissions)
+<span style="color:black">CVPR 2025 <span style="color:#CC0000 "><i>Highlight</i></span></span> (Top <span style="color:#CC0000">2.98%</span> out of valid submissions)
 
 <!-- <span style="color:grey">In Submission</span> -->
 [**Paper**](https://arxiv.org/abs/2412.02690) [**Project**](https://ivl.cs.brown.edu/research/foundhand.html) [**Demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)
