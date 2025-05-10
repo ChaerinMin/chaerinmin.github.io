@@ -29,14 +29,15 @@ I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/
 Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
+- *2025.05*: I'm selected as a [Outstanding Reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) of CVPR 2025!
 - *2025.06*: I'm excited to join [Google](https://about.google/) as a Student Researcher. See you at Mountain View!
 - *2025.04*: 1 paper accepted to CVPR 2025 as Highlight! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
-- *2025.03*: I successfully defended my candidacy.
 
 <details>
   <summary> &nbsp; Click to Expand</summary>
 
   <article markdown="1" class="post-content">
+  - *2025.03*: I successfully defended my candidacy.
   - *2024.06*: 1 paper accepted to IROS 2024! See you at Abu Dhabi&nbsp;🐪
   <!-- - *2024.04*: Presented GenHeld at [**NASA event**](pdf/nasa.pdf) and [**NYC Vision Day**](pdf/nyc.pdf). -->
   - *2023.06*: Successfully defended my [**Master's thesis**](pdf/thesis.pdf)!
@@ -188,6 +189,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 
 # 📖 Services
 - Reviewer for ECCV'24, T-PAMI'24, CVPR'24'25, SIGGRAPHP'25
+- ⭐️ [Outstanding reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) ⭐️ of CVPR 2025
 
 # 📖 Educations
 <!-- <details>
@@ -195,7 +197,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
   <article markdown="1" class="post-content"> -->
 - *2023.09 - current*, Ph.D. in Computer Science, [Brown University](https://www.brown.edu/) (GPA: 4.0/4.0)
 - *2021.09 - 2023.08*, M.S. in Computer Science, [Hanyang University](https://www.hanyang.ac.kr/web/eng) (GPA: 4.0/4.0)
-- *2017.03 - 2021.08*, B.S. in Electrical and Computer Engineering, [University of Seoul](https://www.uos.ac.kr/en/main.do) (GPA: 4.3/4.5, 2nd place)
+- *2017.03 - 2021.08*, B.S. in Electrical and Computer Engineering, [University of Seoul](https://www.uos.ac.kr/en/main.do) (GPA: 4.3/4.5, <span style="color:#CC0000 ">2nd place</span>)
   <!-- </article>
 <!-- </details> --> 
 
