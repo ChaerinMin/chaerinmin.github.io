@@ -65,7 +65,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 <span style="color:black">CVPR 2025 <span style="color:#CC0000 "><i>Highlight</i></span></span> (Top <span style="color:#CC0000">2.98%</span> out of valid submissions)
 
 <!-- <span style="color:grey">In Submission</span> -->
-[**Paper**](https://arxiv.org/abs/2412.02690) [**Project**](https://ivl.cs.brown.edu/research/foundhand.html) [**Demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)
+[**Paper**](https://arxiv.org/abs/2412.02690) [**Project**](https://ivl.cs.brown.edu/research/foundhand.html) [**Code**](https://github.com/arthurchen0518/FoundHand) [**Demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)
 
 </div>
 </div>
@@ -205,5 +205,5 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: May 10, 2025</span>
+<span style="color:grey">Last updated: June 28, 2025</span>
 <div><br><br></div>
