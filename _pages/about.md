@@ -19,24 +19,24 @@ redirect_from:
 
 # About 
 
-I am a second year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
+I am a third year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
 My research interest lies in Computer Vision in 3D.
-I'm currently exploring 3D/4D reconstruction, Gaussian Splatting, and generation.
-Here is my [Curriculum Vitae](pdf/CV_ChaerinMin_250404.pdf).
+I'm currently exploring 3D reconstruction, visual localization, and user interaction.
+Here is my [Curriculum Vitae](pdf/CV_ChaerinMin_250928.pdf).
 <!-- Here is my [Curriculum Vitae](pdf/CV.pdf). -->
 Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
 I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/en/main.do).
 Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
-- *2025.05*: I'm selected as a [Outstanding Reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) of CVPR 2025!
-- *2025.06*: I'm excited to join [Google](https://about.google/) as a Student Researcher. See you at Mountain View!
-- *2025.04*: 1 paper accepted to CVPR 2025 as Highlight! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
 
 <details>
   <summary> &nbsp; Click to Expand</summary>
 
   <article markdown="1" class="post-content">
+  - *2025.05*: I'm selected as a [Outstanding Reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) of CVPR 2025!
+  - *2025.06*: I'm excited to join [Google](https://about.google/) as a Student Researcher. See you at Mountain View!
+  - *2025.04*: 1 paper accepted to CVPR 2025 as Highlight! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
   - *2025.03*: I successfully defended my candidacy.
   - *2024.06*: 1 paper accepted to IROS 2024! See you at Abu Dhabi&nbsp;🐪
   <!-- - *2024.04*: Presented GenHeld at [**NASA event**](pdf/nasa.pdf) and [**NYC Vision Day**](pdf/nyc.pdf). -->
@@ -124,8 +124,9 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
       Google
     </p>
     <p style="font-size: 1.0em;">Student Researcher (mentor: <a href="https://www.linkedin.com/in/hongsheng-yu-05788059/">Hongsheng Yu</a>)</p>
-    <p style="font-size: 1.0em;">Mountain View, CA</p>
-    <p style="font-size: 1.0em;">06/2025 - 08/2025</p>
+    <p style="font-size: 1.0em;">Mountain View / San Jose, CA</p>
+    <p><em>Visual localization -> In submission</em></p>
+    <p style="font-size: 1.0em;">06/2025 - 09/2025</p>
   </div>
 </div>
 
@@ -136,7 +137,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
       Brown University
     </p>
     <p>Ph.D. Research Assistant @ <a href="https://ivl.cs.brown.edu/" target="_blank">Interactive 3D Vision & Learning Lab</a></p>
-    <p><em>3D computer vision and generation -> CVPR 2025 and current projects</em></p>
+    <p><em>3D reconstruction and generation -> CVPR 2025 and current projects</em></p>
     09/2023 - Current
   </div>
 </div>
@@ -188,7 +189,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </details>
 
 # 📖 Services
-- Reviewer for ECCV'24, T-PAMI'24, CVPR'24'25, SIGGRAPHP'25
+- Reviewer for ECCV'24, T-PAMI'24, CVPR'24'25, SIGGRAPHP'25, AAAI'26
 - ⭐️ [Outstanding reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) ⭐️ of CVPR 2025
 
 # 📖 Educations
@@ -205,5 +206,5 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: June 28, 2025</span>
+<span style="color:grey">Last updated: Sep 28, 2025</span>
 <div><br><br></div>
