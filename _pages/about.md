@@ -148,7 +148,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
     <p style="font-size: 1.0em; color: #000;">
       MultiplEYE Co.
     </p>
-    <p>Research Intern @ <a href="https://multipleye.co/en/" target="_blank">MultiplEYE</a></p>
+    <p>Research Intern @ MultiplEYE</p>
     <p><em>Neural rendering in large real indoor scenes -> IROS 2024</em></p>
     09/2022 - 05/2023
   </div>
