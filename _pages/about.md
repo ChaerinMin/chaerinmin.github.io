@@ -30,6 +30,8 @@ Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
 
+- *2025.12*: Our workshop "4D World Models: Bridging Generation and Reconstruction" has been accepted to CVPR 2026!
+
 <details>
   <summary> &nbsp; Click to Expand</summary>
 
@@ -191,6 +193,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 # 📖 Services
 - Reviewer for ECCV'24, T-PAMI'24, CVPR'24'25, SIGGRAPHP'25, AAAI'26
 - ⭐️ [Outstanding reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) ⭐️ of CVPR 2025
+- Junior organizer for 1st 4DWorldModels Workshop at CVPR 2026
 
 # 📖 Educations
 <!-- <details>
@@ -206,5 +209,5 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: Sep 28, 2025</span>
+<span style="color:grey">Last updated: Dec 22, 2025</span>
 <div><br><br></div>
