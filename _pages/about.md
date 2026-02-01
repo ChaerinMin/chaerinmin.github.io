@@ -207,7 +207,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </details>
 
 # 📖 Services
-- Reviewer for ECCV'24, T-PAMI'24, SIGGRAPHP'25, AAAI'26, CVPR'24'25'26
+- Reviewer for ECCV'24, T-PAMI'24, SIGGRAPHP'25, AAAI'26, WACV'26, CVPR'24'25'26
 - ⭐️ [Outstanding reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) ⭐️ of CVPR 2025
 - Junior Organizer for [1st 4DWorldModels Workshop](https://ivl.cs.brown.edu/4dworldmodels) at CVPR 2026
 
