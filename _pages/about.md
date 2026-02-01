@@ -22,7 +22,7 @@ redirect_from:
 I am a third year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
 My research interest lies in Computer Vision in 3D.
 I'm currently exploring 3D reconstruction, visual localization, and user interaction.
-Here is my [Curriculum Vitae](pdf/CV_ChaerinMin_250928.pdf).
+Here is my [Curriculum Vitae](pdf/CV_ChaerinMin_260131.pdf).
 <!-- Here is my [Curriculum Vitae](pdf/CV.pdf). -->
 Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
 I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/en/main.do).
@@ -30,6 +30,7 @@ Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
 
+- *2026.01*: 1 paper accepted to ICRA 2026! See you at Vienna&thinsp;🤖
 - *2025.12*: Our [1st 4DWorldModels workshop](https://ivl.cs.brown.edu/4dworldmodels) has been accepted to CVPR 2026!
 
 <details>
@@ -52,6 +53,21 @@ Feel free to reach out to me for future exciting collaboration!
 </details>
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/SLoFT_loop.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+## [SLoFT: End-to-End Semantic Localization with Floorplan and Transformer]()
+
+**Chaerin Min**, Hongsheng Yu, Fengtao Fan, Srinath Sridhar, Qiuxuan Wu, Chao Guo
+
+<span style="color:black">ICRA 2026</span> <!--<span style="color:brown">oral pitch</span>-->
+
+*Details coming soon..*
+
+</div>
+</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/genheld.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -127,7 +143,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
     </p>
     <p style="font-size: 1.0em;">Student Researcher (mentor: <a href="https://www.linkedin.com/in/hongsheng-yu-05788059/">Hongsheng Yu</a>)</p>
     <p style="font-size: 1.0em;">Mountain View / San Jose, CA</p>
-    <p><em>Visual localization -> In submission</em></p>
+    <p><em>Visual localization -> ICRA 2026</em></p>
     <p style="font-size: 1.0em;">06/2025 - 09/2025</p>
   </div>
 </div>
@@ -209,5 +225,5 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: Dec 22, 2025</span>
+<span style="color:grey">Last updated: Jan 31, 2026</span>
 <div><br><br></div>
