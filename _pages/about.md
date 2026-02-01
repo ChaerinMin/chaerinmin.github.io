@@ -30,7 +30,7 @@ Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
 
-- *2026.01*: 1 paper accepted to ICRA 2026! See you at Vienna&thinsp;🤖
+- *2026.01*: My work during Google internship, [SLoFT](), is accepted to ICRA 2026. See you at Vienna&thinsp;🇦🇹!
 - *2025.12*: Our [1st 4DWorldModels workshop](https://ivl.cs.brown.edu/4dworldmodels) has been accepted to CVPR 2026!
 
 <details>
@@ -39,13 +39,13 @@ Feel free to reach out to me for future exciting collaboration!
   <article markdown="1" class="post-content">
   - *2025.05*: I'm selected as a [Outstanding Reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) of CVPR 2025!
   - *2025.06*: I'm excited to join [Google](https://about.google/) as a Student Researcher. See you at Mountain View!
-  - *2025.04*: 1 paper accepted to CVPR 2025 as Highlight! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
+  - *2025.04*: [FoundHand](https://arxiv.org/abs/2412.02690) is accepted to CVPR 2025 as Highlight! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
   - *2025.03*: I successfully defended my candidacy.
-  - *2024.06*: 1 paper accepted to IROS 2024! See you at Abu Dhabi&nbsp;🐪
+  - *2024.06*: [TSDF-Sampling](https://ieeexplore.ieee.org/abstract/document/10802100) is accepted to IROS 2024! See you at Abu Dhabi&nbsp;🐪
   <!-- - *2024.04*: Presented GenHeld at [**NASA event**](pdf/nasa.pdf) and [**NYC Vision Day**](pdf/nyc.pdf). -->
   - *2023.06*: Successfully defended my [**Master's thesis**](pdf/thesis.pdf)!
   <!-- and joined [Interactive 3D Vision & Learning Lab](https://ivl.cs.brown.edu/). -->
-  - *2023.01*: 1 paper accepted to WACV 2023! See you at Hawaii&nbsp;🏝️
+  - *2023.01*: [MLOF](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) is accepted to WACV 2023! See you at Hawaii&nbsp;🏝️
   - *2022.12*: Granted a 9M KRW scholarship from LG Electronics!
   <!-- - *2022.03*: Recieved a [**patent**](pdf/patent.pdf) about event cameras.  -->
   <!-- &nbsp;🎉🎉 -->
