@@ -30,8 +30,8 @@ Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
 
-- *2026.01*: Our work during Google internship, [SLoFT](), is accepted to ICRA 2026. See you at Vienna :austria:!
-- *2025.12*: Our [1st 4DWorldModels workshop](https://ivl.cs.brown.edu/4dworldmodels) has been accepted to CVPR 2026!
+- *2026.01*: My work during Google internship, [SLoFT](), is accepted to ICRA 2026. See you at Vienna :austria:!
+- *2025.12*: [1st 4DWorldModels workshop](https://ivl.cs.brown.edu/4dworldmodels) has been accepted to CVPR 2026!
 
 <details>
   <summary> &nbsp; Click to Expand</summary>
