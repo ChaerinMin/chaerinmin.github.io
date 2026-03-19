@@ -20,8 +20,9 @@ redirect_from:
 # About 
 
 I am a third year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
-My research interest lies in Computer Vision in 3D.
-I'm currently exploring 3D reconstruction, visual localization, and user interaction.
+<!-- My research interest lies in Computer Vision in 3D.
+I'm currently exploring 3D reconstruction, visual localization, and user interaction. -->
+I am interested in **Spatial Intelligence**: building AI systems that can perceive, reconstruct, and reason about the 3D world. My recent work spans semantic localization, 3D reconstruction, and human-centered generative modeling, with interests toward world models that learn from human signals and support embodied interaction.
 Here is my [Curriculum Vitae](pdf/CV_ChaerinMin_260131.pdf).
 <!-- Here is my [Curriculum Vitae](pdf/CV.pdf). -->
 Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
@@ -54,6 +55,19 @@ Feel free to reach out to me for future exciting collaboration!
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/motionsplicer.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [MotionSplicer: Part-Based Motion Editing for 4D Volumetric Videos]()
+
+**Chaerin Min**, Praccho Muna-McQuay, Tao Lu, James Tompkin, Srinath Sridhar
+
+<span style="color:black">2026</span> <!--<span style="color:brown">oral pitch</span>-->
+
+*Details coming upon acceptance..*
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/SLoFT_loop.gif' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,7 +78,7 @@ Feel free to reach out to me for future exciting collaboration!
 
 <span style="color:black">ICRA 2026</span> <!--<span style="color:brown">oral pitch</span>-->
 
-*Details coming soon..*
+*Details coming in April..*
 
 </div>
 </div>
@@ -225,5 +239,5 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: Jan 31, 2026</span>
+<span style="color:grey">Last updated: March 18, 2026</span>
 <div><br><br></div>
