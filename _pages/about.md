@@ -25,12 +25,12 @@ I'm currently exploring 3D reconstruction, visual localization, and user interac
 My research focuses on <span style="background: #2c3e50; color: #fff; font-weight: 700; padding: 2px 9px; border-radius: 4px; font-size: 0.85em; letter-spacing: 0.6px; text-transform: uppercase;">Spatial Intelligence</span>: building AI systems that can perceive, reconstruct, and reason about the 3D world.
 
 <div style="background: #f8f9fb; border: 1px solid #dde3ec; border-radius: 10px; padding: 16px 22px; margin: 12px 0; line-height: 1.75; font-size: 0.97em;">
-  <div style="border-left: 3px solid #c0cad8; padding-left: 14px; margin-bottom: 10px; color: #555;">
-    <div style="font-size: 0.78em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #8a97a8; margin-bottom: 3px;">Research Experience</div>
+  <div style="border-left: 3px solid #4a7fd4; padding-left: 14px; margin-bottom: 10px; color: #555;">
+    <div style="font-size: 0.78em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #4a7fd4; margin-bottom: 3px;">Research Experience</div>
     Semantic localization &nbsp;&middot;&nbsp; 3D/4D reconstruction &nbsp;&middot;&nbsp; Human-centered generative modeling
   </div>
-  <div style="border-left: 3px solid #4a7fd4; padding-left: 14px; color: #555;">
-    <div style="font-size: 0.78em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #4a7fd4; margin-bottom: 3px;">Research Goals</div>
+  <div style="border-left: 3px solid #c0cad8; padding-left: 14px; color: #555;">
+    <div style="font-size: 0.78em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #8a97a8; margin-bottom: 3px;">Research Goals</div>
     World models that learn from <b>human signals</b> and support embodied <b>interaction</b>
   </div>
 </div>
