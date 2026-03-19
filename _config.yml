@@ -6,8 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+url                      : "https://chaerinmin.github.io"
 title                    : "Chaerin Min"
-description              : "3rd year CS Ph.D. student"
+description              : "CS PhD student @ Brown University"
 repository               : "ChaerinMin/chaerinmin.github.io"
 google_scholar_stats_use_cdn : true
 
