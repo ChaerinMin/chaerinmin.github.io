@@ -22,7 +22,18 @@ redirect_from:
 I am a third year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
 <!-- My research interest lies in Computer Vision in 3D.
 I'm currently exploring 3D reconstruction, visual localization, and user interaction. -->
-I am interested in **Spatial Intelligence**: building AI systems that can perceive, reconstruct, and reason about the 3D world. My recent work spans semantic localization, 3D reconstruction, and human-centered generative modeling, with interests toward world models that learn from human signals and support embodied interaction.
+My research focuses on <span style="background: #2c3e50; color: #fff; font-weight: 700; padding: 2px 9px; border-radius: 4px; font-size: 0.85em; letter-spacing: 0.6px; text-transform: uppercase;">Spatial Intelligence</span>: building AI systems that can perceive, reconstruct, and reason about the 3D world.
+
+<div style="background: #f8f9fb; border: 1px solid #dde3ec; border-radius: 10px; padding: 16px 22px; margin: 12px 0; line-height: 1.75; font-size: 0.97em;">
+  <div style="border-left: 3px solid #c0cad8; padding-left: 14px; margin-bottom: 10px; color: #555;">
+    <div style="font-size: 0.78em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #8a97a8; margin-bottom: 3px;">Research Experience</div>
+    Semantic localization &nbsp;&middot;&nbsp; 3D/4D reconstruction &nbsp;&middot;&nbsp; Human-centered generative modeling
+  </div>
+  <div style="border-left: 3px solid #4a7fd4; padding-left: 14px; color: #555;">
+    <div style="font-size: 0.78em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #4a7fd4; margin-bottom: 3px;">Research Goals</div>
+    World models that learn from <b>human signals</b> and support embodied <b>interaction</b>
+  </div>
+</div>
 Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
 I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/en/main.do).
 Feel free to reach out to me for future exciting collaboration!
