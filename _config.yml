@@ -23,11 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chaerin Min"
   avatar           : "images/avatar.png"
-  bio              : "Brown University"
+  bio              :
   # location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nQJqJLMAAAAJ&hl=en&oi=ao"
+  cv               : "pdf/CV_ChaerinMin_260131.pdf"
   email            : "chaerin_min@brown.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

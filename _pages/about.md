@@ -23,8 +23,6 @@ I am a third year Ph.D. student at [Brown University](https://www.brown.edu/), w
 <!-- My research interest lies in Computer Vision in 3D.
 I'm currently exploring 3D reconstruction, visual localization, and user interaction. -->
 I am interested in **Spatial Intelligence**: building AI systems that can perceive, reconstruct, and reason about the 3D world. My recent work spans semantic localization, 3D reconstruction, and human-centered generative modeling, with interests toward world models that learn from human signals and support embodied interaction.
-Here is my [Curriculum Vitae](pdf/CV_ChaerinMin_260131.pdf).
-<!-- Here is my [Curriculum Vitae](pdf/CV.pdf). -->
 Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
 I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/en/main.do).
 Feel free to reach out to me for future exciting collaboration!
