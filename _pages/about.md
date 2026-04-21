@@ -31,7 +31,7 @@ My research focuses on <span style="background: #2c3e50; color: #fff; font-weigh
   </div>
   <div style="border-left: 3px solid #c0cad8; padding-left: 14px; color: #555;">
     <div style="font-size: 0.78em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #8a97a8; margin-bottom: 3px;">Research Goals</div>
-    World models that learn from <b>human signals</b> and support embodied <b>interaction</b>
+    Spatial intelligence that learn from <b>human signals</b> and support embodied <b>interaction</b>
   </div>
 </div>
 Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
