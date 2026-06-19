@@ -22,31 +22,22 @@ redirect_from:
 I am a third year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
 <!-- My research interest lies in Computer Vision in 3D.
 I'm currently exploring 3D reconstruction, visual localization, and user interaction. -->
-My research focuses on <span style="background: #2c3e50; color: #fff; font-weight: 700; padding: 2px 9px; border-radius: 4px; font-size: 0.85em; letter-spacing: 0.6px; text-transform: uppercase;">Spatial Intelligence</span>: building AI systems that can perceive, reconstruct, and reason about the 3D world.
+My research focuses on <span style="background: #2c3e50; color: #fff; font-weight: 700; padding: 2px 9px; border-radius: 4px; font-size: 0.85em; letter-spacing: 0.6px; text-transform: uppercase;">Spatial Intelligence</span>: building AI systems that can perceive, generate, and reason the space and time of the 3D physcial world.
 
-<div style="background: #f8f9fb; border: 1px solid #dde3ec; border-radius: 10px; padding: 16px 22px; margin: 12px 0; line-height: 1.75; font-size: 0.97em;">
-  <div style="border-left: 3px solid #4a7fd4; padding-left: 14px; margin-bottom: 10px; color: #555;">
-    <div style="font-size: 0.78em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #4a7fd4; margin-bottom: 3px;">Research Experience</div>
-    Semantic localization &nbsp;&middot;&nbsp; 3D/4D reconstruction &nbsp;&middot;&nbsp; Human-centered generative modeling
-  </div>
-  <div style="border-left: 3px solid #c0cad8; padding-left: 14px; color: #555;">
-    <div style="font-size: 0.78em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #8a97a8; margin-bottom: 3px;">Research Goals</div>
-    Spatial intelligence that learn from <b>human signals</b> and support embodied <b>interaction</b>
-  </div>
-</div>
 Before coming to Brown, I received by Master's degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim).
 I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/en/main.do).
 Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
-
-- *2026.01*: My work during Google internship, [SLoFT](), is accepted to ICRA 2026. See you at Vienna :austria:!
-- *2025.12*: [1st 4DWorldModels workshop](https://ivl.cs.brown.edu/4dworldmodels) has been accepted to CVPR 2026!
+- *2026.06*: [MotionSplicer]() is accepted to ECCV 2026! See you at Malmö&nbsp;🇸🇪
+- *2026.05*: I'm excited to return to [Google](https://about.google/) as a Student Researcher for Summer 2026!
 
 <details>
   <summary> &nbsp; Click to Expand</summary>
 
   <article markdown="1" class="post-content">
+  - *2026.01*: My work during Google internship, [SLoFT](), is accepted to ICRA 2026. See you at Vienna :austria:!
+  - *2025.12*: [1st 4DWorldModels workshop](https://ivl.cs.brown.edu/4dworldmodels) has been accepted to CVPR 2026!
   - *2025.05*: I'm selected as a [Outstanding Reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) of CVPR 2025!
   - *2025.06*: I'm excited to join [Google](https://about.google/) as a Student Researcher. See you at Mountain View!
   - *2025.04*: [FoundHand](https://arxiv.org/abs/2412.02690) is accepted to CVPR 2025 as Highlight! Try our [**demo**](https://huggingface.co/spaces/Chaerin5/FoundHand)🤗 and see you at Nashville&nbsp;🎸
@@ -64,16 +55,16 @@ Feel free to reach out to me for future exciting collaboration!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/motionsplicer.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/motionsplicer.gif' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [MotionSplicer: Part-Based Motion Editing for 4D Volumetric Videos]()
 
 **Chaerin Min**, Praccho Muna-McQuay, Tao Lu, James Tompkin, Srinath Sridhar
 
-<span style="color:black">2026</span> <!--<span style="color:brown">oral pitch</span>-->
+<span style="color:black">ECCV 2026</span> <!--<span style="color:brown">oral pitch</span>-->
 
-*Details coming upon acceptance..*
+*Details coming soon..*
 </div>
 </div>
 
@@ -87,7 +78,7 @@ Feel free to reach out to me for future exciting collaboration!
 
 <span style="color:black">ICRA 2026</span> <!--<span style="color:brown">oral pitch</span>-->
 
-*Details coming in April..*
+[**Paper**]()
 
 </div>
 </div>
@@ -167,7 +158,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
     <p style="font-size: 1.0em;">Student Researcher (mentor: <a href="https://www.linkedin.com/in/hongsheng-yu-05788059/">Hongsheng Yu</a>)</p>
     <p style="font-size: 1.0em;">Mountain View / San Jose, CA</p>
     <p><em>Visual localization -> ICRA 2026</em></p>
-    <p style="font-size: 1.0em;">06/2025 - 09/2025</p>
+    <p style="font-size: 1.0em;">06/2025 - 09/2025, 06/2026 - Current</p>
   </div>
 </div>
 
@@ -178,7 +169,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
       Brown University
     </p>
     <p>Ph.D. Research Assistant @ <a href="https://ivl.cs.brown.edu/" target="_blank">Interactive 3D Vision & Learning Lab</a></p>
-    <p><em>3D reconstruction and generation -> CVPR 2025 and current projects</em></p>
+    <p><em>3D reconstruction and generation -> CVPR 2025, ECCV 2026</em></p>
     09/2023 - Current
   </div>
 </div>
@@ -230,7 +221,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </details>
 
 # 📖 Services
-- Reviewer for ECCV'24, T-PAMI'24, SIGGRAPHP'25, AAAI'26, WACV'26, CVPR'24'25'26
+- Reviewer for T-PAMI'24, SIGGRAPHP'25, AAAI'26, WACV'26, CVPR'24'25'26, ECCV'24'26
 - ⭐️ [Outstanding reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) ⭐️ of CVPR 2025
 - Junior Organizer for [1st 4DWorldModels Workshop](https://ivl.cs.brown.edu/4dworldmodels) at CVPR 2026
 
@@ -248,5 +239,5 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: March 18, 2026</span>
+<span style="color:grey">Last updated: June 18, 2026</span>
 <div><br><br></div>
