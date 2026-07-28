@@ -29,6 +29,7 @@ I completed my Bachelor's degree at [University of Seoul](https://www.uos.ac.kr/
 Feel free to reach out to me for future exciting collaboration!
 
 # 📢 News 
+- *2026.07*: I’m selected as a [Outstanding Reviewer](https://eccv.ecva.net/Conferences/2026/ProgramCommittee#outstanding-reviewer) of ECCV 2026!
 - *2026.06*: [MotionSplicer]() is accepted to ECCV 2026! See you at Malmö&nbsp;🇸🇪
 - *2026.05*: I'm excited to return to [Google](https://about.google/) as a Student Researcher for Summer 2026!
 
@@ -64,7 +65,7 @@ Feel free to reach out to me for future exciting collaboration!
 
 <span style="color:black">ECCV 2026</span> <!--<span style="color:brown">oral pitch</span>-->
 
-*Details coming soon..*
+[**Paper**](pdf/motionsplicer.pdf) *Details coming soon..*
 </div>
 </div>
 
@@ -78,7 +79,7 @@ Feel free to reach out to me for future exciting collaboration!
 
 <span style="color:black">ICRA 2026</span> <!--<span style="color:brown">oral pitch</span>-->
 
-[**Paper**]()
+[**Paper**](pdf/sloft.pdf)  *Details coming soon..*
 
 </div>
 </div>
@@ -222,7 +223,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 
 # 📖 Services
 - Reviewer for T-PAMI'24, SIGGRAPHP'25, AAAI'26, WACV'26, CVPR'24'25'26, ECCV'24'26
-- ⭐️ [Outstanding reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) ⭐️ of CVPR 2025
+- ⭐️ Outstanding reviewer ⭐️ of [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) and [ECCV 2026](https://eccv.ecva.net/Conferences/2026/ProgramCommittee#outstanding-reviewer)
 - Junior Organizer for [1st 4DWorldModels Workshop](https://ivl.cs.brown.edu/4dworldmodels) at CVPR 2026
 
 # 📖 Educations
@@ -239,5 +240,5 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 - *2021.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<span style="color:grey">Last updated: June 18, 2026</span>
+<span style="color:grey">Last updated: July 27, 2026</span>
 <div><br><br></div>
