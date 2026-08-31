@@ -65,7 +65,7 @@ Feel free to reach out to me for future exciting collaboration!
 
 <span style="color:black">ECCV 2026</span> <!--<span style="color:brown">oral pitch</span>-->
 
-[**Paper**](pdf/motionsplicer.pdf) *Details coming soon..*
+[**Paper**](pdf/motionsplicer.pdf) [**Project**](https://ivl.cs.brown.edu/motionsplicer/)  [**Code**](https://github.com/ChaerinMin/MotionSplicer)
 </div>
 </div>
 
@@ -79,8 +79,7 @@ Feel free to reach out to me for future exciting collaboration!
 
 <span style="color:black">ICRA 2026</span> <!--<span style="color:brown">oral pitch</span>-->
 
-[**Paper**](pdf/sloft.pdf)  *Details coming soon..*
-
+[**Paper**](pdf/sloft.pdf)  [**Video**](images/SLoFT.mp4)  [**Poster**](pdf/sloft_poster.pdf)
 </div>
 </div>
 
@@ -222,7 +221,7 @@ Kefan Chen$$^*$$, **Chaerin Min$$^*$$**, Linguang Zhang, Shreyas Hampali, Cem Ke
 </details>
 
 # 📖 Services
-- Reviewer for T-PAMI'24, SIGGRAPHP'25, AAAI'26, WACV'26, CVPR'24'25'26, ECCV'24'26
+- Reviewer for T-PAMI'24, SIGGRAPHP'25, AAAI'26, WACV'26, CVPR'24'25'26, ECCV'24'26, RA-L'26
 - ⭐️ Outstanding reviewer ⭐️ of [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) and [ECCV 2026](https://eccv.ecva.net/Conferences/2026/ProgramCommittee#outstanding-reviewer)
 - Junior Organizer for [1st 4DWorldModels Workshop](https://ivl.cs.brown.edu/4dworldmodels) at CVPR 2026
 
