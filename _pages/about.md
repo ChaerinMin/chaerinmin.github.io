@@ -19,7 +19,7 @@ redirect_from:
 
 # About 
 
-I am a third year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
+I am a fourth year Ph.D. student at [Brown University](https://www.brown.edu/), working with [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/index.html).
 <!-- My research interest lies in Computer Vision in 3D.
 I'm currently exploring 3D reconstruction, visual localization, and user interaction. -->
 My research focuses on <span style="background: #2c3e50; color: #fff; font-weight: 700; padding: 2px 9px; border-radius: 4px; font-size: 0.85em; letter-spacing: 0.6px; text-transform: uppercase;">Spatial Intelligence</span>: building AI systems that can perceive, generate, and reason the space and time of the 3D physcial world.
